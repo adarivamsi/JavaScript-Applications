@@ -1,2 +1,1 @@
-"# JavaScript-Applications" 
-'# JavaScript-Applications' 
+# JavaScript-Applications by Vamsi Charan Adari
