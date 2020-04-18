@@ -1,6 +1,6 @@
-# JavaScript Applications
+# Validation Form - One
 
-These are my different JavaScript Application projects.
+This is a JavaScript Validation form for sign up or create account usage.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
