@@ -18,6 +18,16 @@ h1 {
     margin: 0 0 50;
 }
 
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
 .text-button {
     background-color: white;
     align-content: center;
